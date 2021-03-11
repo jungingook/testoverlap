@@ -27,7 +27,8 @@ SECRET_KEY = 'k&xedmgnwjnr2$23-szhu^32q1oa%-h2a8l&xy+70a(928w=%o'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '.ap-northeast-2.compute.amazonaws.com'
+    '.ap-northeast-2.compute.amazonaws.com',
+    '.over-lap.kr',
 ]
 
 
